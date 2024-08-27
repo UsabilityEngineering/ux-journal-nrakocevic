@@ -1,6 +1,8 @@
 # UX Portfolio
 
-About me...
+My name is Nikola Rakocevic.
+
+I like warhammer and mechwarrior. I have put an unhealthy amount of time into Borderlands 2.
 
 ## UX Team Project
 
