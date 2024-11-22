@@ -11,3 +11,9 @@ To that extent, the timer section of the iPhone clock app served the job well en
 ![new timer ui](https://github.com/user-attachments/assets/19ead978-6754-4dcd-8e33-e45faf01e0dc)
 
 However, one day after arriving home, a nice seared but medium steak on my mind, I was greeted by this instead.
+
+![timer set](https://github.com/user-attachments/assets/d8de9492-73c5-408b-9349-92386e77e988)
+
+I went to set a timer like I would before and sure enough, it worked. What is chiefly different, though, is that it is missing what time it will be done and an apparent option to cancel the timer. My intention is set and forget, so those change do not matter much right now. However, I did notice the timer I just set showed up below "Recents". I made a mental note of it and went to do other things. Four minutes and thirty seconds later, the timer went off, so I rushed to flip over the steak. While I was preoccupied with the steak and my phone went to sleep, the timer stopped going off. 
+
+Later on, I decided to bake some cookies and try out the recent timers feature.
