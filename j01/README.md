@@ -4,7 +4,7 @@ Changing the layout of a user interface is always a tricky endeavor. Even if the
 
 ![5s-timer-iphone](https://github.com/user-attachments/assets/592b028f-234b-4f84-a122-339ba116c4fe)
 
-To that extent, the timer section of the iPhone clock app served the job well enough. Even though each of the units were labeled, it followed the **standard**, specific design decisions that are informally accepted by a collective, of time units listed in descending order. As I dragged one of the numbers up or down, it ticked by generating a small vibration when it reached another one, providing nice **feedback**, confirmation of an action's success that the user can immediately sense. 
+To that extent, the timer section of the iPhone clock app served the job well enough. Even though each of the units were labeled, it followed the **standard**--specific design decisions that are informally accepted by a collective--of time units listed in descending order. As I dragged one of the numbers up or down, it ticked by generating a small vibration when it reached another one, providing nice **feedback**, confirmation of an action's success that the user could immediately sense. 
 
 <img width="160" alt="old timer ui" src="https://github.com/user-attachments/assets/f22b9de5-eca1-4f96-9ab6-9ed589f719c3">
 
@@ -16,7 +16,7 @@ However, one day after arriving home, a nice seared but medium steak on my mind,
 
 ![timer set](https://github.com/user-attachments/assets/d8de9492-73c5-408b-9349-92386e77e988)
 
-I went to set a timer like I would before and sure enough, it worked. What is chiefly different, though, is that it is missing what time it will be done and an apparent option to cancel the timer. My intention was set and forget, so those change did not matter much at that moment. However, I did notice the timer I just set showed up below "Recents". This was an **efficient** addition as it made it unncessary to manually enter the time again, reducing what I needed to do without sacrificing completeness. I made a mental note of it and went to do other things. Four minutes and thirty seconds later, the timer went off, so I rushed to flip over the steak. While I was preoccupied with the steak and my phone went to sleep, the timer stopped going off. This change was very **satisfying** as I did not have to hear the alarm specifically designed to make a user aware of an urgent thing while I addressed said urgent thing.
+I went to set a timer like I would before and sure enough, it worked. What is chiefly different, though, is that it is missing what time it will be done and an apparent option to cancel the timer. My intention was set and forget, so those changes did not matter much at that moment. However, I did notice the timer I just set showed up below "Recents". This was an **efficient** addition as it made it unnecessary to manually enter the time again, reducing what I needed to do without sacrificing completeness. I made a mental note of it and went to do other things. Four minutes and thirty seconds later, the timer went off, so I rushed to flip over the steak. While I was preoccupied with the steak and my phone went to sleep, the timer stopped going off. This change was very **satisfying** as I did not have to hear the alarm specifically designed to make a user aware of an urgent thing while I addressed said urgent thing.
 
 ![image](https://github.com/user-attachments/assets/9ee86674-1055-4d71-9732-c381d3e14b08)
 
