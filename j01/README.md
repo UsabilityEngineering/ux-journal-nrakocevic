@@ -10,7 +10,7 @@ To that extent, the timer section of the iPhone clock app served the job well en
 
 Setting the time opened this page. The decreasing circle representing the time **naturally mapped**, aligned with physical devices or norms, with analog clocks and timers. If I made a timer on accident, I could obviously press the cancel button. Once it ran out, even if I was not in the application or even on my phone, it sounded an alarm. It was **effective**, completing the task to its fullest. 
 
-![new timer ui](https://github.com/user-attachments/assets/19ead978-6754-4dcd-8e33-e45faf01e0dc | width=100)
+![new timer ui](https://github.com/user-attachments/assets/19ead978-6754-4dcd-8e33-e45faf01e0dc|width=100)
 
 However, one day after arriving home, a nice seared but medium steak on my mind, I was greeted by this instead.
 
