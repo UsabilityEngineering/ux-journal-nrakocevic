@@ -30,8 +30,6 @@ Later on, I decided to bake some cookies and try out the recent timers feature. 
 
 The second set timer going through offsetted the layout just enough to inform me that the timers were in fact set. This specific feature has poor **feedback**. This could possibly be fixed by a tick vibration much like the one triggered by dragging the numbers.
 
-![image](https://github.com/user-attachments/assets/a8b7ce53-35c6-452b-8e15-e39288ad97cf)
-
 Because I only needed one timer, I had to cancel the second timer. The only thing that looked tappable was the pause button, but that made it clear it would simply stop the timer, not delete it. There was some trial and error I needed to do, so I tried to tap the time itself.
 
 ![image](https://github.com/user-attachments/assets/dcf14589-4dae-4072-8a4e-9e8402ade6f4)
