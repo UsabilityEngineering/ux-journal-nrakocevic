@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Updating User Interface: More Useful And Usable?](j01/)
