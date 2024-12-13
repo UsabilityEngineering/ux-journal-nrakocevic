@@ -1,10 +1,12 @@
 # Updating User Interface: More Useful And Usable?
 ## By Nikola Rakocevic, November 19, 2024
-Changing the layout of a user interface is always a tricky endeavor. Even if the update is a net benefit, the user can dislike it because it deviated too much. As a college student living away from home and with a need to be self reliant, I cook my own meals. As such, I need to wait certain yet different amounts of time for the meals I am making, but I do not want to just sit in front of the oven or stove, counting the seconds myself until the time has passed.
+Changing the layout of a user interface is always a tricky endeavor. Even if the update is a net benefit, the user can dislike it because it deviated too much. As a college student living away from home and with a need to be self reliant, I cook my own meals. As such, I need to wait certain--yet different--amounts of time for the meals I am making, but I do not want to just sit in front of the oven or stove, counting the seconds myself until the time has passed.
 
+<p align="center">
 <img width="160" alt="old timer ui" src="https://github.com/user-attachments/assets/592b028f-234b-4f84-a122-339ba116c4fe">
+</p>
 
-To that extent, the timer section of the iPhone clock app served the job well enough. Even though each of the units were labeled, it followed the **standard**--specific design decisions that are informally accepted by a collective--of time units listed in descending order. As I dragged one of the numbers up or down, it ticked by generating a small vibration when it reached another one, providing nice **feedback**, confirmation of an action's success that the user could immediately sense. 
+To that extent, the timer section of the iPhone clock app served the job well enough. Even though each of the units were labeled, it followed the **convention**--specific design decisions that are informally accepted by a collective--of time units listed in descending order. As I dragged one of the numbers up or down, it ticked by generating a small vibration when it reached another one, providing nice **feedback**, confirmation of an action's success that the user could immediately sense. 
 
 <img width="160" alt="old timer set" src="https://github.com/user-attachments/assets/f22b9de5-eca1-4f96-9ab6-9ed589f719c3">
 
