@@ -8,36 +8,52 @@ Changing the layout of a user interface is always a tricky endeavor. Even if the
 
 To that extent, the timer section of the iPhone clock app served the job well enough. Even though each of the units were labeled, it followed the **convention**--specific design decisions that are informally accepted by a collective--of time units listed in descending order. As I dragged one of the numbers up or down, it ticked by generating a small vibration when it reached another one, providing nice **feedback**, confirmation of an action's success that the user could immediately sense. 
 
+<p align="center">
 <img width="160" alt="old timer set" src="https://github.com/user-attachments/assets/f22b9de5-eca1-4f96-9ab6-9ed589f719c3">
+</p>
 
 Setting the time opened this page. The decreasing circle representing the time **naturally mapped**, aligned with physical devices or norms, with analog clocks and timers. If I made a timer on accident, I could obviously press the cancel button. Once it ran out, even if I was not in the application or even on my phone, it sounded an alarm. It was **effective**, completing the task to its fullest. 
 
+<p align="center">
 <img width="160" alt="new timer ui" src="https://github.com/user-attachments/assets/19ead978-6754-4dcd-8e33-e45faf01e0dc">
+</p>
 
 However, one day after arriving home, a nice seared but medium steak on my mind, I was greeted by this instead.
 
+<p align="center">
 <img width="160" alt="new timer set" src="https://github.com/user-attachments/assets/d8de9492-73c5-408b-9349-92386e77e988">
+</p>
 
 I went to set a timer like I would before and sure enough, it worked. What is chiefly different, though, is that it is missing what time it will be done and an apparent option to cancel the timer. My intention was set and forget, so those changes did not matter much at that moment. However, I did notice the timer I just set showed up below "Recents". This was an **efficient** addition as it made it unnecessary to manually enter the time again, reducing what I needed to do without sacrificing completeness. I made a mental note of it and went to do other things. Four minutes and thirty seconds later, the timer went off, so I rushed to flip over the steak. While I was preoccupied with the steak and my phone went to sleep, the timer stopped going off. This change was very **satisfying** as I did not have to hear the alarm specifically designed to make a user aware of an urgent thing while I addressed said urgent thing.
 
+<p align="center">
 <img width="160" alt="timer going off" src="https://github.com/user-attachments/assets/9ee86674-1055-4d71-9732-c381d3e14b08">
+</p>
 
 Once I was done dealing with the steak, I picked up my phone and hit repeat. This was a feature that existed in the previous version, but its **efficiency** is very much worth mentioning.
 
+<p align="center">
 <img width="160" alt="recent timers" src="https://github.com/user-attachments/assets/95cee5e4-6a55-47f6-91b6-3ad680a84386">
+</p>
 
 Later on, I decided to bake some cookies and try out the recent timers feature. Because I had set a timer for 12 minutes for a different thing, it was there. When I pressed it, little happened, so I pressed it again.
 
+<p align="center">
 <img width="160" alt="double timer" src="https://github.com/user-attachments/assets/dddca44b-29a2-47e1-a65e-156136c6cd56">
+</p>
 
 The second set timer going through offsetted the layout just enough to inform me that the timers were in fact set. This specific feature has poor **feedback**. This could possibly be fixed by a tick vibration much like the one triggered by dragging the numbers.
 
 Because I only needed one timer, I had to cancel the second one. The only thing that looked tappable was the pause button, but that made it clear it would simply stop the timer, not delete it. There was some trial and error I needed to do, so I tried to tap the time itself.
 
+<p align="center">
 <img width="160" alt="old ui in new ui" src="https://github.com/user-attachments/assets/dcf14589-4dae-4072-8a4e-9e8402ade6f4">
+</p>
 
 That brought me to this page. It was nice to see that the old UI was kept in some way, but more importantly, I saw the cancel button.
 
+<p align="center">
 <img width="160" alt="one less timer" src="https://github.com/user-attachments/assets/4b53f4b4-6034-424e-872a-e1cf2bbc0d17">
+</p>
 
 Pressing it **efficiently** brought me back to the previous page and the second timer was gone. However, it was clear some **efficiency** for deleting a timer was lost. The cookie baking proceeded as normal. All in all, the changes to the UI proved themselves to be **effective** and **efficient**.
